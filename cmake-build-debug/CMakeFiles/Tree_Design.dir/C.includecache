@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jvanderen11/OneDrive/General Programming/C Programs/Tree Design/main.c
+stdio.h
+-
+string.h
+-
+math.h
+-
+
